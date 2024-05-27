@@ -1,7 +1,7 @@
 {
-    "name": "ɢᴜᴘᴘ ꜱʜᴜᴘᴘ ダ ᴍᴜsɪᴄ",
+    "name": "ᴡʏɴᴋ ᴍᴜꜱɪᴄ ダ ᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/9405aafe6384e21b46af5.jpg",
+    "logo": "https://graph.org/file/0f457306c9675f08e1779.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,43 +34,43 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-        "value": "7142645781",
+        "value": "6515982629",
         "required": true
       },
     "OWNER": {
         "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-        "value": "7142645781",
+        "value": "6515982629",
         "required": true
       },
     "GBAN_LOGS": {
         "description": "Logger group id add also",
-        "value": "",
+        "value": "-1002035785639",
         "required": true
       },
     "GCAST_USERS": {
         "description": "Gcast Users Only use Like : 5916859256 5916859256",
-        "value": "",
+        "value": "6515982629",
         "required": true
       },
     
     "BOTADDLOGS": {
         "description": "Logger group id add also",
-        "value": "",
+        "value": "-1002035785639",
         "required": true
       },
      "OWNER_USERNAME": {
         "description": "Add owner username without @",
-        "value": "New_AMBOT",
+        "value": "ll_NINJA_XDZ_ll",
         "required": true
       },
      "SUPPORT_CHANNEL": {
         "description": "Add channel link",
-        "value": "https://t.me/botverse_community",
+        "value": "https://t.me/+lRMjYBcCt3tjN2E1",
         "required": true
       },
         "SUPPORT_CHAT": {
         "description": "Add Chat group & support group Link",
-        "value": "https://t.me/botverse_support",
+        "value": "https://t.me/+lRMjYBcCt3tjN2E1",
         "required": true
       },
       "STRING_SESSION": {
@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/vicky0604hello/guppshupp",
+        "value": "https://github.com/Ninjabots1/wynkmusic",
         "required": false
       },
       "UPSTREAM_BRANCH": {
@@ -105,12 +105,12 @@
       },
       "START_IMG_URL": {
         "description": "Your Bot Start Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://graph.org/file/9405aafe6384e21b46af5.jpg",
+        "value": "https://graph.org/file/0f457306c9675f08e1779.jpg",
         "required": false
       },
       "PING_IMG_URL": {
         "description": "Your Bot Ping Check Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://graph.org/file/9405aafe6384e21b46af5.jpg",
+        "value": "https://graph.org/file/91726bdaa436d175388ce.jpg",
         "required": false
       },
       "STATS_IMG_URL": {
@@ -120,7 +120,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1002035785639",
         "required": true
       }
     },
